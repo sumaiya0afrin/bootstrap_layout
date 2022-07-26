@@ -1,4 +1,4 @@
-.header, .hero, .body,.bar, .footer{
+.header, .hero, .body,.bar{
     margin-bottom: 10px;
     background-color: palevioletred;
 }
@@ -14,4 +14,7 @@
 }
 .red{
     background-color: red;
+}
+.footer{
+    background-color: palevioletred;
 }
